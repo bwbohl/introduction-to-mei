@@ -1,11 +1,23 @@
-<p align="center">
-  <img src="https://hakim-static.s3.amazonaws.com/reveal-js/logo/v1/reveal-black-text.svg" alt="reveal.js" width="450">
-  <br><br>
-  <img src="https://github.com/hakimel/reveal.js/workflows/tests/badge.svg">
-  <img src="https://s3.amazonaws.com/static.slid.es/images/slides-github-banner-320x40.png?1" alt="Slides" width="160" height="20"></a>
-</p>
+# Introduction to MEI
+
+This are the slides to my *Introduction to MEI* as facilitaded during the *Music Encoding Conference 2020* (MEC2020). The slides are powered using [reveal.js](https://revealjs.com/) and can be viewed at: https://bwbohl.github.io/introduction-to-mei/  
+
+## License
+
+Feel free to reuse the  following material:
+
+* index.html
+* introduction.to-mei.md
+
+according to the terms of the [CC-BY-SA-4.0 license](LICENSE)
+[https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
+
+All other files are part of _reveal.js_ which are licensed under the terms of the 
+[MIT license](LICENSES/reveal.js-LICENSE).
 
 ## reveal.js
+
+![reveal.js-logo](https://hakim-static.s3.amazonaws.com/reveal-js/logo/v1/reveal-black-text.svg)
 
 reveal.js is an open source HTML presentation framework. It enables anyone with a web browser to create fully featured and beautiful presentations for free. [Check out the live demo](https://revealjs.com/).
 
