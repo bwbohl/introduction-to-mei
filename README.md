@@ -1,5 +1,7 @@
 # Introduction to MEI
 
+[![DOI](https://zenodo.org/badge/266627212.svg)](https://zenodo.org/badge/latestdoi/266627212)
+
 This are the slides to my *Introduction to MEI* as facilitaded during the *Music Encoding Conference 2020* (MEC2020). The slides are powered using [reveal.js](https://revealjs.com/) and can be viewed at: https://bwbohl.github.io/introduction-to-mei/
 
 ## Licenses
